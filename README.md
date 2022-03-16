@@ -8,7 +8,7 @@ E aí, topa o desafio? Então vem para o DreamTeam, vem para a Sapios!
 ## Proposta
 O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração e Remoção de Clientes com endereço, construir 2 entidades separadas em uma API REST e construir uma página web simples para mostrar os dados cadastrados.
 
-##Front-end
+## Front-end
   * Sem restrição de tecnologia para contrução do layout
   * Axios, fetch ou outros 
 
@@ -27,7 +27,7 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 
 ---
 
-##Back-end
+## Back-end
 * Cliente:
   * CNPJ (Obrigatório)
   * Razão Social (Obrigatório)
