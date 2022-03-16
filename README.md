@@ -1,7 +1,7 @@
 # Sapios
 
 ## Quem somos
-Somos uma aceleradora e trabalhamos com mensageria conectando bots no mercado. 
+Somos uma aceleradora e trabalhamos com mensageria conectando bots no mercado de telecom. 
 Conhecimento técnico é muito importante, mas acima de tudo, buscamos pessoas que queiram crescer e se desenvolver junto conosco. 
 E aí, topa o desafio? Então vem para o DreamTeam, vem para a Sapios! 
 
